@@ -117,3 +117,7 @@ python -m unittest discover -s tests -v
 Las pruebas usan archivos sintéticos temporales e incluyen alteraciones de contenido, referencias ausentes, índices duplicados, rutas ambiguas, colisiones, enlaces, límites y fallos parciales de creación. No constituyen certificación de seguridad ni de conformidad BagIt completa.
 
 No se configura CI remota en esta versión inicial. Consulta [la verificación local](docs/verificacion.md) para comandos y alcance.
+
+## Licencia
+
+Copyright 2026 mat-l-dev. Distribuido bajo la licencia [Apache-2.0](LICENSE). Consulta el texto completo de la licencia para sus permisos, condiciones y limitaciones.

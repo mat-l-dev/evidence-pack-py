@@ -83,3 +83,7 @@ python -m unittest discover -s tests -v
 ```
 
 Tests use synthetic temporary fixtures only. They cover corruption, missing references, duplicate index keys, path policy, collisions, links, resource limits and incomplete creation. They are neither security certification nor full BagIt conformance testing. No remote CI is configured in this initial version; see [local verification](verificacion.md).
+
+## License
+
+Copyright 2026 mat-l-dev. Licensed under the [Apache License 2.0](../LICENSE). See the full license text for its permissions, conditions, and limitations.

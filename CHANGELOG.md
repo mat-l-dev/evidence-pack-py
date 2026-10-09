@@ -2,6 +2,7 @@
 
 ## 0.1.0 — Sin publicar
 
+- Licencia Apache-2.0 incluida en el repositorio, sdist y wheel; metadatos SPDX explícitos.
 - API de creación y verificación local del perfil `evidence-pack/1`.
 - Estructura BagIt 1.0 acotada, manifiestos SHA-256 de payload y etiquetas.
 - Índice JSON que vincula hallazgos con archivos existentes.

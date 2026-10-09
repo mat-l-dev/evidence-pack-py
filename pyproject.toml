@@ -7,6 +7,8 @@ name = "evidence-pack-py"
 version = "0.1.0"
 description = "Paquetes locales de evidencia con manifiestos SHA-256 e índice de hallazgos"
 readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
 requires-python = ">=3.12"
 dependencies = []
 classifiers = [
