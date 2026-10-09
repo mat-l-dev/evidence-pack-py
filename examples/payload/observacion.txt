@@ -1,0 +1,1 @@
+Ejemplo sintético: el registro de control no incluye un campo de responsable.

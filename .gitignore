@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+.coverage
+.coverage.*
+htmlcov/
+
+.uv-cache/
+.ruff_cache/
+.mypy_cache/
+example-pack/
+.wheel-venv/
+.smoke-pack/
